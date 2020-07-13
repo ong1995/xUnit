@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\XunitExam.deps.json
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\XunitExam.runtimeconfig.json
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\XunitExam.runtimeconfig.dev.json
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\XunitExam.dll
+C:\Users\USER\source\repos\XunitExam\XunitExam\bin\Debug\netcoreapp2.1\XunitExam.pdb
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.AssemblyInfo.cs
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.dll
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.pdb
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\XunitExam\XunitExam\obj\Debug\netcoreapp2.1\XunitExam.genruntimeconfig.cache
