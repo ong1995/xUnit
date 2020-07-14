@@ -10,7 +10,7 @@ namespace XunitExam
     public class ProductTest
     {
         [Fact]
-        public void Products_ShouldReturnNullExceptionIfTheValueIsNull()
+        public void Products_ShouldReturnNullException_WhenValueIsNull()
         {
             Assert.Throws<ArgumentNullException>(
                 () => new Products().AddNew(null)
@@ -18,7 +18,7 @@ namespace XunitExam
         }
 
         [Fact]
-        public void Products_ShouldReturnTrueIfTheNewProductWasAdded()
+        public void Products_ShouldReturnTrue_WhenNewProductAdded()
         {
             var fixture = new Fixture();
             
@@ -29,7 +29,7 @@ namespace XunitExam
         }
 
         [Fact]
-        public void Products_ShouldReturnExceptionIfTheProductNameIsNull()
+        public void Products_ShouldReturnException_ProductNameIsNull()
         {
             var fixture = new Fixture();
 
